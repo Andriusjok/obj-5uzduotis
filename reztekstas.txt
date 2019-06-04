@@ -1,211 +1,212 @@
- 10 pasikartojo 2 kartus eilutese: 23 60
- 150000 pasikartojo 2 kartus eilutese: 5 28
- 18 pasikartojo 3 kartus eilutese: 1 24 39
- a pasikartojo 22 kartus eilutese: 9 9 15 18 18 18 21 32 32 41 43 51 51 51 51 51 53 64 64 64 64 64
- about pasikartojo 2 kartus eilutese: 16 41
- airline pasikartojo 3 kartus eilutese: 5 28 53
- airlines pasikartojo 3 kartus eilutese: 9 32 60
- airport pasikartojo 12 kartus eilutese: 1 15 16 18 24 35 37 41 43 46 55 58
- airports pasikartojo 3 kartus eilutese: 5 28 39
- all pasikartojo 7 kartus eilutese: 3 5 9 26 28 32 39
- already pasikartojo 5 kartus eilutese: 5 11 28 41 48
- american pasikartojo 2 kartus eilutese: 9 32
- americas pasikartojo 2 kartus eilutese: 9 32
- an pasikartojo 8 kartus eilutese: 7 11 30 46 48 53 53 58
- and pasikartojo 21 kartus eilutese: 5 5 7 9 9 16 28 28 30 32 32 35 39 41 41 43 51 53 53 55 57
- are pasikartojo 7 kartus eilutese: 9 15 32 39 39 41 57
- arent pasikartojo 2 kartus eilutese: 9 32
- arriving pasikartojo 2 kartus eilutese: 5 28
- as pasikartojo 5 kartus eilutese: 9 32 39 39 58
- at pasikartojo 21 kartus eilutese: 1 1 5 5 7 9 11 16 23 24 24 28 28 30 32 37 39 46 48 53 55
- atlanta pasikartojo 2 kartus eilutese: 7 30
- away pasikartojo 2 kartus eilutese: 1 24
- bag pasikartojo 2 kartus eilutese: 7 30
- be pasikartojo 4 kartus eilutese: 9 11 32 48
- before pasikartojo 2 kartus eilutese: 5 28
- biggest pasikartojo 2 kartus eilutese: 9 32
- biometric pasikartojo 2 kartus eilutese: 7 30
- board pasikartojo 8 kartus eilutese: 1 5 7 18 24 28 30 53
- boarding pasikartojo 6 kartus eilutese: 7 11 17 30 39 48
- but pasikartojo 4 kartus eilutese: 39 53 62 64
- by pasikartojo 6 kartus eilutese: 21 41 43 46 53 53
- camera pasikartojo 4 kartus eilutese: 10 47 51 64
- can pasikartojo 3 kartus eilutese: 9 32 64
- cancun pasikartojo 2 kartus eilutese: 1 24
- check pasikartojo 2 kartus eilutese: 7 30
- chinas pasikartojo 2 kartus eilutese: 9 32
- come pasikartojo 2 kartus eilutese: 43 55
- compared pasikartojo 2 kartus eilutese: 53 58
- convenience pasikartojo 4 kartus eilutese: 3 9 26 32
- costs pasikartojo 2 kartus eilutese: 3 26
- creeps pasikartojo 2 kartus eilutese: 9 32
- crimes pasikartojo 2 kartus eilutese: 9 32
- data pasikartojo 2 kartus eilutese: 9 32
- delta pasikartojo 2 kartus eilutese: 7 30
- didnt pasikartojo 2 kartus eilutese: 51 64
- different pasikartojo 2 kartus eilutese: 11 48
- do pasikartojo 2 kartus eilutese: 41 55
- doesnt pasikartojo 2 kartus eilutese: 58 64
- dont pasikartojo 2 kartus eilutese: 15 39
- drop pasikartojo 2 kartus eilutese: 7 30
- earlier pasikartojo 2 kartus eilutese: 5 28
- efficiency pasikartojo 3 kartus eilutese: 9 16 32
- egate pasikartojo 5 kartus eilutese: 46 51 53 60 62
- egates pasikartojo 2 kartus eilutese: 5 28
- entire pasikartojo 2 kartus eilutese: 7 30
- f pasikartojo 3 kartus eilutese: 1 24 46
- face pasikartojo 11 kartus eilutese: 3 7 15 16 17 26 30 51 53 53 53
- faceid pasikartojo 2 kartus eilutese: 11 48
- faces pasikartojo 7 kartus eilutese: 5 9 9 28 32 32 46
- facescanning pasikartojo 2 kartus eilutese: 41 58
- facial pasikartojo 7 kartus eilutese: 11 18 35 37 41 48 55
- facialrecognition pasikartojo 3 kartus eilutese: 5 28 64
- familiar pasikartojo 2 kartus eilutese: 11 48
- far pasikartojo 2 kartus eilutese: 41 57
- faster pasikartojo 2 kartus eilutese: 7 30
- flight pasikartojo 3 kartus eilutese: 1 24 41
- flights pasikartojo 4 kartus eilutese: 7 18 30 62
- for pasikartojo 11 kartus eilutese: 10 15 35 39 41 47 51 55 62 64 64
- fowler pasikartojo 2 kartus eilutese: 18 21
- fowlerthe pasikartojo 2 kartus eilutese: 18 46
- from pasikartojo 5 kartus eilutese: 11 48 55 55 55
- gate pasikartojo 6 kartus eilutese: 1 11 24 39 48 55
- geoffrey pasikartojo 4 kartus eilutese: 18 18 21 46
- get pasikartojo 3 kartus eilutese: 3 26 51
- gets pasikartojo 2 kartus eilutese: 39 53
- government pasikartojo 2 kartus eilutese: 9 32
- happening pasikartojo 2 kartus eilutese: 11 48
- has pasikartojo 9 kartus eilutese: 5 7 9 18 28 30 32 41 64
- have pasikartojo 4 kartus eilutese: 35 64 64 64
- help pasikartojo 2 kartus eilutese: 7 30
- heres pasikartojo 2 kartus eilutese: 17 41
- hope pasikartojo 2 kartus eilutese: 3 26
- how pasikartojo 4 kartus eilutese: 9 32 37 43
- https://www.washingtonpost.com/technology/2019/06/10/your-face-is-now-your-boarding-pass-thats-problem/?utm_term=.719a04479de6 pasikartojo 2 kartus eilutese: 12 20
- human pasikartojo 2 kartus eilutese: 41 57
- i pasikartojo 7 kartus eilutese: 3 26 39 58 60 62 64
- if pasikartojo 2 kartus eilutese: 39 51
- immigration pasikartojo 2 kartus eilutese: 16 43
- in pasikartojo 9 kartus eilutese: 5 7 7 9 28 30 30 32 57
- inevitably pasikartojo 2 kartus eilutese: 9 32
- international pasikartojo 7 kartus eilutese: 5 7 28 30 35 46 55
- into pasikartojo 3 kartus eilutese: 9 32 51
- iphone pasikartojo 4 kartus eilutese: 11 48 53 58
- is pasikartojo 16 kartus eilutese: 3 5 5 11 17 26 28 28 35 35 43 48 55 57 64 64
- it pasikartojo 10 kartus eilutese: 3 5 7 26 28 30 39 51 60 64
- its pasikartojo 4 kartus eilutese: 3 9 26 32
- jetblue pasikartojo 4 kartus eilutese: 5 18 28 64
- jetblues pasikartojo 5 kartus eilutese: 1 24 46 51 60
- john pasikartojo 3 kartus eilutese: 1 24 46
- just pasikartojo 2 kartus eilutese: 51 57
- kennedy pasikartojo 3 kartus eilutese: 1 24 46
- large pasikartojo 2 kartus eilutese: 9 32
- largely pasikartojo 2 kartus eilutese: 5 28
- life pasikartojo 2 kartus eilutese: 9 32
- look pasikartojo 2 kartus eilutese: 18 51
- makings pasikartojo 2 kartus eilutese: 9 32
- may pasikartojo 2 kartus eilutese: 11 48
- me pasikartojo 6 kartus eilutese: 39 39 39 43 60 60
- minutes pasikartojo 2 kartus eilutese: 7 30
- more pasikartojo 3 kartus eilutese: 41 60 64
- mostly pasikartojo 2 kartus eilutese: 9 32
- name pasikartojo 2 kartus eilutese: 9 32
- need pasikartojo 3 kartus eilutese: 1 24 39
- needs pasikartojo 2 kartus eilutese: 43 55
- new pasikartojo 3 kartus eilutese: 18 24 46
- nine pasikartojo 2 kartus eilutese: 7 30
- normalize pasikartojo 2 kartus eilutese: 9 32
- not pasikartojo 2 kartus eilutese: 62 62
- now pasikartojo 3 kartus eilutese: 17 35 55
- of pasikartojo 22 kartus eilutese: 3 9 9 9 9 9 26 32 32 32 32 32 37 39 39 39 51 55 57 57 62 64
- often pasikartojo 2 kartus eilutese: 41 64
- on pasikartojo 6 kartus eilutese: 35 41 43 51 62 64
- one pasikartojo 5 kartus eilutese: 3 26 39 51 55
- only pasikartojo 2 kartus eilutese: 3 26
- opt pasikartojo 2 kartus eilutese: 35 37
- or pasikartojo 5 kartus eilutese: 35 39 51 53 64
- our pasikartojo 2 kartus eilutese: 9 32
- out pasikartojo 4 kartus eilutese: 1 24 35 37
- over pasikartojo 2 kartus eilutese: 5 28
- pass pasikartojo 2 kartus eilutese: 17 46
- passenger pasikartojo 4 kartus eilutese: 7 30 39 64
- passengers pasikartojo 4 kartus eilutese: 41 46 62 62
- passport pasikartojo 2 kartus eilutese: 1 24
- past pasikartojo 2 kartus eilutese: 5 28
- people pasikartojo 3 kartus eilutese: 9 32 55
- per pasikartojo 2 kartus eilutese: 7 30
- police pasikartojo 2 kartus eilutese: 9 32
- policy pasikartojo 2 kartus eilutese: 16 43
- post pasikartojo 2 kartus eilutese: 18 46
- privacy pasikartojo 2 kartus eilutese: 15 43
- privacyinvading pasikartojo 2 kartus eilutese: 9 32
- prototypes pasikartojo 2 kartus eilutese: 5 28
- pull pasikartojo 2 kartus eilutese: 1 24
- put pasikartojo 3 kartus eilutese: 1 24 51
- really pasikartojo 2 kartus eilutese: 16 43
- recognition pasikartojo 8 kartus eilutese: 11 16 18 35 37 41 48 55
- right pasikartojo 2 kartus eilutese: 35 51
- saving pasikartojo 2 kartus eilutese: 7 30
- says pasikartojo 4 kartus eilutese: 7 30 57 64
- scale pasikartojo 2 kartus eilutese: 9 32
- scanned pasikartojo 2 kartus eilutese: 5 28
- scanning pasikartojo 3 kartus eilutese: 9 32 46
- scans pasikartojo 4 kartus eilutese: 7 15 30 53
- seconds pasikartojo 3 kartus eilutese: 7 30 51
- security pasikartojo 3 kartus eilutese: 7 30 41
- smile pasikartojo 3 kartus eilutese: 10 15 47
- so pasikartojo 5 kartus eilutese: 3 26 39 41 62
- state pasikartojo 3 kartus eilutese: 9 32 55
- states pasikartojo 2 kartus eilutese: 5 28
- step pasikartojo 3 kartus eilutese: 9 32 51
- stolen pasikartojo 2 kartus eilutese: 9 32
- stored pasikartojo 2 kartus eilutese: 9 32
- stuff pasikartojo 2 kartus eilutese: 9 32
- suspected pasikartojo 2 kartus eilutese: 9 32
- systems pasikartojo 2 kartus eilutese: 41 64
- technology pasikartojo 7 kartus eilutese: 5 9 22 28 32 43 57
- terminal pasikartojo 2 kartus eilutese: 7 30
- than pasikartojo 3 kartus eilutese: 41 57 60
- that pasikartojo 8 kartus eilutese: 7 9 17 30 32 39 41 46
- thats pasikartojo 4 kartus eilutese: 9 32 43 55
- the pasikartojo 45 kartus eilutese: 1 5 5 5 7 9 9 9 9 9 10 11 16 18 24 28 28 28 30 32 32 32 32 32 35 37 39 41 41 43 47 48 53 55 55 55 55 55 57 60 62 62 64 64 64
- they pasikartojo 2 kartus eilutese: 5 28
- this pasikartojo 5 kartus eilutese: 3 9 26 32 43
- those pasikartojo 3 kartus eilutese: 3 26 55
- through pasikartojo 3 kartus eilutese: 43 46 60
- ticket pasikartojo 2 kartus eilutese: 1 24
- to pasikartojo 28 kartus eilutese: 1 1 1 5 9 18 18 18 24 24 24 28 32 35 37 39 39 41 41 43 51 53 53 55 55 57 58 60
- too pasikartojo 3 kartus eilutese: 1 24 64
- tracked pasikartojo 2 kartus eilutese: 9 32
- trap pasikartojo 4 kartus eilutese: 9 15 32 43
- travelers pasikartojo 5 kartus eilutese: 5 28 35 55 55
- treating pasikartojo 2 kartus eilutese: 9 32
- two pasikartojo 6 kartus eilutese: 5 7 28 30 51 62
- united pasikartojo 2 kartus eilutese: 5 28
- unlocking pasikartojo 3 kartus eilutese: 11 48 58
- unproven pasikartojo 2 kartus eilutese: 5 28
- unregulated pasikartojo 2 kartus eilutese: 5 28
- us pasikartojo 7 kartus eilutese: 9 17 32 35 39 39 53
- uses pasikartojo 2 kartus eilutese: 7 30
- verify pasikartojo 2 kartus eilutese: 5 28
- very pasikartojo 3 kartus eilutese: 11 41 48
- washington pasikartojo 3 kartus eilutese: 18 18 46
- whats pasikartojo 3 kartus eilutese: 11 16 48
- when pasikartojo 3 kartus eilutese: 51 53 60
- where pasikartojo 2 kartus eilutese: 39 55
- which pasikartojo 2 kartus eilutese: 53 55
- who pasikartojo 2 kartus eilutese: 9 32
- why pasikartojo 2 kartus eilutese: 15 17
- with pasikartojo 9 kartus eilutese: 11 11 41 43 48 48 53 60 64
- wont pasikartojo 2 kartus eilutese: 1 24
- work pasikartojo 2 kartus eilutese: 58 62
- worth pasikartojo 2 kartus eilutese: 3 26
- years pasikartojo 2 kartus eilutese: 5 28
- yet pasikartojo 5 kartus eilutese: 5 9 28 32 58
- yorks pasikartojo 2 kartus eilutese: 18 46
- you pasikartojo 10 kartus eilutese: 1 3 11 24 26 39 48 51 51 53
- your pasikartojo 16 kartus eilutese: 1 1 3 7 17 17 24 24 26 30 51 51 51 53 53 53
+Zodis             pakartojimu skaicius  eilutese
+10                2                     23 60
+150000            2                     5 28
+about             2                     16 41
+american          2                     9 32
+americas          2                     9 32
+arent             2                     9 32
+arriving          2                     5 28
+atlanta           2                     7 30
+away              2                     1 24
+bag               2                     7 30
+before            2                     5 28
+biggest           2                     9 32
+biometric         2                     7 30
+cancun            2                     1 24
+check             2                     7 30
+chinas            2                     9 32
+come              2                     43 55
+compared          2                     53 58
+costs             2                     3 26
+creeps            2                     9 32
+crimes            2                     9 32
+data              2                     9 32
+delta             2                     7 30
+didnt             2                     51 64
+different         2                     11 48
+do                2                     41 55
+doesnt            2                     58 64
+dont              2                     15 39
+drop              2                     7 30
+earlier           2                     5 28
+egates            2                     5 28
+entire            2                     7 30
+faceid            2                     11 48
+facescanning      2                     41 58
+familiar          2                     11 48
+far               2                     41 57
+faster            2                     7 30
+fowler            2                     18 21
+fowlerthe         2                     18 46
+gets              2                     39 53
+government        2                     9 32
+happening         2                     11 48
+help              2                     7 30
+heres             2                     17 41
+hope              2                     3 26
+human             2                     41 57
+if                2                     39 51
+immigration       2                     16 43
+inevitably        2                     9 32
+just              2                     51 57
+large             2                     9 32
+largely           2                     5 28
+life              2                     9 32
+look              2                     18 51
+makings           2                     9 32
+may               2                     11 48
+minutes           2                     7 30
+mostly            2                     9 32
+name              2                     9 32
+needs             2                     43 55
+nine              2                     7 30
+normalize         2                     9 32
+not               2                     62
+often             2                     64
+only              2                     3 26
+opt               2                     35 37
+our               2                     9 32
+over              2                     5 28
+pass              2                     17 46
+passport          2                     1 24
+past              2                     5 28
+per               2                     7 30
+police            2                     9 32
+policy            2                     16 43
+post              2                     18 46
+privacy           2                     15 43
+privacyinvading   2                     9 32
+prototypes        2                     5 28
+pull              2                     1 24
+really            2                     16 43
+right             2                     35 51
+saving            2                     7 30
+scale             2                     9 32
+scanned           2                     5 28
+states            2                     5 28
+stolen            2                     9 32
+stored            2                     9 32
+stuff             2                     9 32
+suspected         2                     9 32
+systems           2                     41 64
+terminal          2                     7 30
+they              2                     5 28
+ticket            2                     1 24
+tracked           2                     9 32
+treating          2                     9 32
+united            2                     5 28
+unproven          2                     5 28
+unregulated       2                     5 28
+uses              2                     7 30
+verify            2                     5 28
+where             2                     39 55
+which             2                     55
+who               2                     9 32
+why               2                     15 17
+wont              2                     1 24
+work              2                     58 62
+worth             2                     3 26
+years             2                     5 28
+yorks             2                     18 46
+18                3                     1 24 39
+airline           3                     5 28 53
+airlines          3                     9 32 60
+airports          3                     5 28 39
+can               3                     9 32 64
+efficiency        3                     9 16 32
+f                 3                     1 24 46
+facialrecognition 3                     5 28 64
+flight            3                     1 24 41
+get               3                     3 26 51
+into              3                     9 32 51
+john              3                     1 24 46
+kennedy           3                     1 24 46
+more              3                     41 60 64
+need              3                     1 24 39
+new               3                     18 24 46
+now               3                     17 35 55
+people            3                     9 32 55
+put               3                     1 24 51
+scanning          3                     9 32 46
+seconds           3                     7 30 51
+security          3                     7 30 41
+smile             3                     10 15 47
+state             3                     9 32 55
+step              3                     9 32 51
+than              3                     41 57 60
+those             3                     3 26 55
+through           3                     43 46 60
+too               3                     1 24 64
+unlocking         3                     11 48 58
+very              3                     11 41 48
+washington        3                     18 46
+whats             3                     11 16 48
+when              3                     51 53 60
+be                4                     9 11 32 48
+but               4                     39 53 62 64
+camera            4                     10 47 51 64
+convenience       4                     3 9 26 32
+flights           4                     7 18 30 62
+geoffrey          4                     18 21 46
+have              4                     35 64
+how               4                     9 32 37 43
+iphone            4                     11 48 53 58
+its               4                     3 9 26 32
+jetblue           4                     5 18 28 64
+out               4                     1 24 35 37
+passenger         4                     7 30 39 64
+passengers        4                     41 46 62
+says              4                     7 30 57 64
+scans             4                     7 15 30 53
+thats             4                     9 32 43 55
+trap              4                     9 15 32 43
+already           5                     5 11 28 41 48
+as                5                     9 32 39 58
+egate             5                     46 51 53 60 62
+from              5                     11 48 55
+jetblues          5                     1 24 46 51 60
+one               5                     3 26 39 51 55
+or                5                     35 39 51 53 64
+so                5                     3 26 39 41 62
+this              5                     3 9 26 32 43
+travelers         5                     5 28 35 55
+yet               5                     5 9 28 32 58
+boarding          6                     7 11 17 30 39 48
+by                6                     21 41 43 46 53
+gate              6                     1 11 24 39 48 55
+me                6                     39 43 60
+on                6                     35 41 43 51 62 64
+two               6                     5 7 28 30 51 62
+all               7                     3 5 9 26 28 32 39
+are               7                     9 15 32 39 41 57
+faces             7                     5 9 28 32 46
+facial            7                     11 18 35 37 41 48 55
+i                 7                     3 26 39 58 60 62 64
+international     7                     5 7 28 30 35 46 55
+technology        7                     5 9 22 28 32 43 57
+us                7                     9 17 32 35 39 53
+an                8                     7 11 30 46 48 53 58
+board             8                     1 5 7 18 24 28 30 53
+recognition       8                     11 16 18 35 37 41 48 55
+that              8                     7 9 17 30 32 39 41 46
+has               9                     5 7 9 18 28 30 32 41 64
+in                9                     5 7 9 28 30 32 57
+with              9                     11 41 43 48 53 60 64
+it                10                    3 5 7 26 28 30 39 51 60 64
+you               10                    1 3 11 24 26 39 48 51 53
+face              11                    3 7 15 16 17 26 30 51 53
+for               11                    10 15 35 39 41 47 51 55 62 64
+airport           12                    1 15 16 18 24 35 37 41 43 46 55 58
+is                16                    3 5 11 17 26 28 35 43 48 55 57 64
+your              16                    1 3 7 17 24 26 30 51 53
+and               21                    5 7 9 16 28 30 32 35 39 41 43 51 53 55 57
+at                21                    1 5 7 9 11 16 23 24 28 30 32 37 39 46 48 53 55
+a                 22                    9 15 18 21 32 41 43 51 53 64
+of                22                    3 9 26 32 37 39 51 55 57 62 64
+to                28                    1 5 9 18 24 28 32 35 37 39 41 43 51 53 55 57 58 60
+the               45                    1 5 7 9 10 11 16 18 24 28 30 32 35 37 39 41 43 47 48 53 55 57 60 62 64
 URLs: 
+www.pavargau.lt
 www.pavargau.lt
 https://github.com/
 https://www.washingtonpost.com/technology/2019/06/10/your-face-is-now-your-boarding-pass-thats-problem/?utm_term=.719a04479de6

@@ -5,7 +5,7 @@ All this convenience costs is your face. You get only one of those, so I hope it
 Facial-recognition technology is unproven and largely unregulated — yet it is already arriving at airports all over the United States. At JetBlue “e-gates” and earlier prototypes, the airline has scanned 150,000 faces in the past two years to verify international travelers before they board.
 
 In Atlanta, Delta has an entire “biometric terminal” that uses your face at check in, bag drop, security and boarding. It says the scans help board international flights nine minutes faster, saving two seconds per passenger.
-www.pavargau.lt
+www.pavargau.lt www.pavargau.lt
 This has all the makings of a convenience trap. That’s how privacy-invading technology — the stuff of China’s police state — creeps into American life. Mostly in the name of efficiency, airlines and the U.S. government are, at a large scale, scanning the faces of people who aren’t suspected of crimes. It’s America’s biggest step yet to normalize treating our faces as data that can be stored, tracked and, inevitably, stolen.
 Smile for the https://github.com/ camera
 You may already be familiar with facial recognition from unlocking an iPhone with FaceID. What’s happening at the boarding gate is very different.
