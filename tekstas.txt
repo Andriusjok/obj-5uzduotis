@@ -1,0 +1,64 @@
+You won’t need to pull out your ticket to board the flight to Cancun at JetBlue’s Gate 18 at John F. Kennedy Airport. Put away your passport, too.
+
+All this convenience costs is your face. You get only one of those, so I hope it’s worth it.
+
+Facial-recognition technology is unproven and largely unregulated — yet it is already arriving at airports all over the United States. At JetBlue “e-gates” and earlier prototypes, the airline has scanned 150,000 faces in the past two years to verify international travelers before they board.
+
+In Atlanta, Delta has an entire “biometric terminal” that uses your face at check in, bag drop, security and boarding. It says the scans help board international flights nine minutes faster, saving two seconds per passenger.
+www.pavargau.lt
+This has all the makings of a convenience trap. That’s how privacy-invading technology — the stuff of China’s police state — creeps into American life. Mostly in the name of efficiency, airlines and the U.S. government are, at a large scale, scanning the faces of people who aren’t suspected of crimes. It’s America’s biggest step yet to normalize treating our faces as data that can be stored, tracked and, inevitably, stolen.
+Smile for the https://github.com/ camera
+You may already be familiar with facial recognition from unlocking an iPhone with FaceID. What’s happening at the boarding gate is very different.
+https://www.washingtonpost.com/technology/2019/06/10/your-face-is-now-your-boarding-pass-thats-problem/?utm_term=.719a04479de6
+
+Consumer Tech Perspective
+Don’t smile for surveillance: Why airport face scans are a privacy trap
+What’s face recognition at the airport really about? Immigration policy and efficiency.
+Your face is now your boarding pass. Here's why that should worry us.
+JetBlue has begun using facial recognition to board certain flights. The Washington Post's Geoffrey A. Fowler travels to New York's JFK airport to take a look. (James Pace-Cornsilk, Geoffrey A. Fowler/The Washington Post)
+https://github.com
+https://www.washingtonpost.com/technology/2019/06/10/your-face-is-now-your-boarding-pass-thats-problem/?utm_term=.719a04479de6
+By Geoffrey A. Fowler
+Technology columnist
+June 10 at 9:30 AM
+NEW YORK — You won’t need to pull out your ticket to board the flight to Cancun at JetBlue’s Gate 18 at John F. Kennedy Airport. Put away your passport, too.
+
+All this convenience costs is your face. You get only one of those, so I hope it’s worth it.
+
+Facial-recognition technology is unproven and largely unregulated — yet it is already arriving at airports all over the United States. At JetBlue “e-gates” and earlier prototypes, the airline has scanned 150,000 faces in the past two years to verify international travelers before they board.
+
+In Atlanta, Delta has an entire “biometric terminal” that uses your face at check in, bag drop, security and boarding. It says the scans help board international flights nine minutes faster, saving two seconds per passenger.
+
+This has all the makings of a convenience trap. That’s how privacy-invading technology — the stuff of China’s police state — creeps into American life. Mostly in the name of efficiency, airlines and the U.S. government are, at a large scale, scanning the faces of people who aren’t suspected of crimes. It’s America’s biggest step yet to normalize treating our faces as data that can be stored, tracked and, inevitably, stolen.
+
+
+For now, airport facial recognition is focused on international travelers and is voluntary. Or, rather, U.S. citizens have the right to opt out.
+
+[How to opt out of facial recognition at the airport]
+
+But airports are stressful places where many of us are inclined to trade all sorts of liberties for the promise of safety or expedience. As one passenger boarding at Gate 18 told me, “I don’t care if you need to strip me naked, so long as it gets me onto that plane and makes us safe.”
+
+Here’s the reality: So far, airport facial recognition has very little to do with increasing flight security. Passengers are already screened for that by humans and machines. And the face-scanning systems end up relying on human checks a lot more often than officials like to talk about.
+
+Come with me on a trip to the airport. How is this privacy trap being laid? Through technology that’s really driven by immigration policy and business needs.
+
+ 
+At New York's John F. Kennedy airport, JetBlue's international passengers pass through an "e-gate" that verifies identity by scanning their faces. (Geoffrey Fowler/The Washington Post)
+Smile for the camera
+You may already be familiar with facial recognition from unlocking an iPhone with FaceID. What’s happening at the boarding gate is very different.
+
+
+When you step into JetBlue’s e-gate, you put your feet on blue markers and look for a few seconds toward a box just to your right. A camera inside takes a picture of your face — sometimes two or three, if it didn’t get a good one.
+
+When you unlock an iPhone, your face scans never go to Apple or even leave your phone. But at an e-gate, your face gets captured by the airline and then compared with a face database run by U.S. Customs and Border Protection, which reports back whether you’re cleared to board.
+
+The system needs photos of travelers to compare against the people at the gate. Where do those come from? From the State Department, which gathers the shots from passports and visa applications. (That’s one reason, for now, airport facial recognition is limited to international travelers.)
+
+“The technology is far superior in terms of identifying mismatches to photographs than just general human beings are,” says Daniel Tanciar, CBP’s deputy executive director of entry and exit transformation.
+Yet compared to unlocking an iPhone, I found airport face-scanning doesn’t work quite as well.
+
+JetBlue’s e-gate let me through more than 10 times when I tested with the airline’s assistance. To everyone’s surprise, it also recognized me wearing sunglasses.
+
+But other passengers were not so lucky. On two flights I observed, the e-gate did not work for 15 percent of the passengers.
+
+JetBlue says a non-match can happen for a number of reasons — maybe the passenger doesn’t have a reference photo on file, is looking the wrong way, is too short for the camera or has grown a beard. I didn’t find evidence it failed more often with particular demographics. But academic studies have shown some facial-recognition systems have a harder time

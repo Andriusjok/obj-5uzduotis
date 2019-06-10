@@ -1,0 +1,213 @@
+ 10 pasikartojo 2 kartus eilutese: 23 60
+ 150000 pasikartojo 2 kartus eilutese: 5 28
+ 18 pasikartojo 3 kartus eilutese: 1 24 39
+ a pasikartojo 22 kartus eilutese: 9 9 15 18 18 18 21 32 32 41 43 51 51 51 51 51 53 64 64 64 64 64
+ about pasikartojo 2 kartus eilutese: 16 41
+ airline pasikartojo 3 kartus eilutese: 5 28 53
+ airlines pasikartojo 3 kartus eilutese: 9 32 60
+ airport pasikartojo 12 kartus eilutese: 1 15 16 18 24 35 37 41 43 46 55 58
+ airports pasikartojo 3 kartus eilutese: 5 28 39
+ all pasikartojo 7 kartus eilutese: 3 5 9 26 28 32 39
+ already pasikartojo 5 kartus eilutese: 5 11 28 41 48
+ american pasikartojo 2 kartus eilutese: 9 32
+ americas pasikartojo 2 kartus eilutese: 9 32
+ an pasikartojo 8 kartus eilutese: 7 11 30 46 48 53 53 58
+ and pasikartojo 21 kartus eilutese: 5 5 7 9 9 16 28 28 30 32 32 35 39 41 41 43 51 53 53 55 57
+ are pasikartojo 7 kartus eilutese: 9 15 32 39 39 41 57
+ arent pasikartojo 2 kartus eilutese: 9 32
+ arriving pasikartojo 2 kartus eilutese: 5 28
+ as pasikartojo 5 kartus eilutese: 9 32 39 39 58
+ at pasikartojo 21 kartus eilutese: 1 1 5 5 7 9 11 16 23 24 24 28 28 30 32 37 39 46 48 53 55
+ atlanta pasikartojo 2 kartus eilutese: 7 30
+ away pasikartojo 2 kartus eilutese: 1 24
+ bag pasikartojo 2 kartus eilutese: 7 30
+ be pasikartojo 4 kartus eilutese: 9 11 32 48
+ before pasikartojo 2 kartus eilutese: 5 28
+ biggest pasikartojo 2 kartus eilutese: 9 32
+ biometric pasikartojo 2 kartus eilutese: 7 30
+ board pasikartojo 8 kartus eilutese: 1 5 7 18 24 28 30 53
+ boarding pasikartojo 6 kartus eilutese: 7 11 17 30 39 48
+ but pasikartojo 4 kartus eilutese: 39 53 62 64
+ by pasikartojo 6 kartus eilutese: 21 41 43 46 53 53
+ camera pasikartojo 4 kartus eilutese: 10 47 51 64
+ can pasikartojo 3 kartus eilutese: 9 32 64
+ cancun pasikartojo 2 kartus eilutese: 1 24
+ check pasikartojo 2 kartus eilutese: 7 30
+ chinas pasikartojo 2 kartus eilutese: 9 32
+ come pasikartojo 2 kartus eilutese: 43 55
+ compared pasikartojo 2 kartus eilutese: 53 58
+ convenience pasikartojo 4 kartus eilutese: 3 9 26 32
+ costs pasikartojo 2 kartus eilutese: 3 26
+ creeps pasikartojo 2 kartus eilutese: 9 32
+ crimes pasikartojo 2 kartus eilutese: 9 32
+ data pasikartojo 2 kartus eilutese: 9 32
+ delta pasikartojo 2 kartus eilutese: 7 30
+ didnt pasikartojo 2 kartus eilutese: 51 64
+ different pasikartojo 2 kartus eilutese: 11 48
+ do pasikartojo 2 kartus eilutese: 41 55
+ doesnt pasikartojo 2 kartus eilutese: 58 64
+ dont pasikartojo 2 kartus eilutese: 15 39
+ drop pasikartojo 2 kartus eilutese: 7 30
+ earlier pasikartojo 2 kartus eilutese: 5 28
+ efficiency pasikartojo 3 kartus eilutese: 9 16 32
+ egate pasikartojo 5 kartus eilutese: 46 51 53 60 62
+ egates pasikartojo 2 kartus eilutese: 5 28
+ entire pasikartojo 2 kartus eilutese: 7 30
+ f pasikartojo 3 kartus eilutese: 1 24 46
+ face pasikartojo 11 kartus eilutese: 3 7 15 16 17 26 30 51 53 53 53
+ faceid pasikartojo 2 kartus eilutese: 11 48
+ faces pasikartojo 7 kartus eilutese: 5 9 9 28 32 32 46
+ facescanning pasikartojo 2 kartus eilutese: 41 58
+ facial pasikartojo 7 kartus eilutese: 11 18 35 37 41 48 55
+ facialrecognition pasikartojo 3 kartus eilutese: 5 28 64
+ familiar pasikartojo 2 kartus eilutese: 11 48
+ far pasikartojo 2 kartus eilutese: 41 57
+ faster pasikartojo 2 kartus eilutese: 7 30
+ flight pasikartojo 3 kartus eilutese: 1 24 41
+ flights pasikartojo 4 kartus eilutese: 7 18 30 62
+ for pasikartojo 11 kartus eilutese: 10 15 35 39 41 47 51 55 62 64 64
+ fowler pasikartojo 2 kartus eilutese: 18 21
+ fowlerthe pasikartojo 2 kartus eilutese: 18 46
+ from pasikartojo 5 kartus eilutese: 11 48 55 55 55
+ gate pasikartojo 6 kartus eilutese: 1 11 24 39 48 55
+ geoffrey pasikartojo 4 kartus eilutese: 18 18 21 46
+ get pasikartojo 3 kartus eilutese: 3 26 51
+ gets pasikartojo 2 kartus eilutese: 39 53
+ government pasikartojo 2 kartus eilutese: 9 32
+ happening pasikartojo 2 kartus eilutese: 11 48
+ has pasikartojo 9 kartus eilutese: 5 7 9 18 28 30 32 41 64
+ have pasikartojo 4 kartus eilutese: 35 64 64 64
+ help pasikartojo 2 kartus eilutese: 7 30
+ heres pasikartojo 2 kartus eilutese: 17 41
+ hope pasikartojo 2 kartus eilutese: 3 26
+ how pasikartojo 4 kartus eilutese: 9 32 37 43
+ https://www.washingtonpost.com/technology/2019/06/10/your-face-is-now-your-boarding-pass-thats-problem/?utm_term=.719a04479de6 pasikartojo 2 kartus eilutese: 12 20
+ human pasikartojo 2 kartus eilutese: 41 57
+ i pasikartojo 7 kartus eilutese: 3 26 39 58 60 62 64
+ if pasikartojo 2 kartus eilutese: 39 51
+ immigration pasikartojo 2 kartus eilutese: 16 43
+ in pasikartojo 9 kartus eilutese: 5 7 7 9 28 30 30 32 57
+ inevitably pasikartojo 2 kartus eilutese: 9 32
+ international pasikartojo 7 kartus eilutese: 5 7 28 30 35 46 55
+ into pasikartojo 3 kartus eilutese: 9 32 51
+ iphone pasikartojo 4 kartus eilutese: 11 48 53 58
+ is pasikartojo 16 kartus eilutese: 3 5 5 11 17 26 28 28 35 35 43 48 55 57 64 64
+ it pasikartojo 10 kartus eilutese: 3 5 7 26 28 30 39 51 60 64
+ its pasikartojo 4 kartus eilutese: 3 9 26 32
+ jetblue pasikartojo 4 kartus eilutese: 5 18 28 64
+ jetblues pasikartojo 5 kartus eilutese: 1 24 46 51 60
+ john pasikartojo 3 kartus eilutese: 1 24 46
+ just pasikartojo 2 kartus eilutese: 51 57
+ kennedy pasikartojo 3 kartus eilutese: 1 24 46
+ large pasikartojo 2 kartus eilutese: 9 32
+ largely pasikartojo 2 kartus eilutese: 5 28
+ life pasikartojo 2 kartus eilutese: 9 32
+ look pasikartojo 2 kartus eilutese: 18 51
+ makings pasikartojo 2 kartus eilutese: 9 32
+ may pasikartojo 2 kartus eilutese: 11 48
+ me pasikartojo 6 kartus eilutese: 39 39 39 43 60 60
+ minutes pasikartojo 2 kartus eilutese: 7 30
+ more pasikartojo 3 kartus eilutese: 41 60 64
+ mostly pasikartojo 2 kartus eilutese: 9 32
+ name pasikartojo 2 kartus eilutese: 9 32
+ need pasikartojo 3 kartus eilutese: 1 24 39
+ needs pasikartojo 2 kartus eilutese: 43 55
+ new pasikartojo 3 kartus eilutese: 18 24 46
+ nine pasikartojo 2 kartus eilutese: 7 30
+ normalize pasikartojo 2 kartus eilutese: 9 32
+ not pasikartojo 2 kartus eilutese: 62 62
+ now pasikartojo 3 kartus eilutese: 17 35 55
+ of pasikartojo 22 kartus eilutese: 3 9 9 9 9 9 26 32 32 32 32 32 37 39 39 39 51 55 57 57 62 64
+ often pasikartojo 2 kartus eilutese: 41 64
+ on pasikartojo 6 kartus eilutese: 35 41 43 51 62 64
+ one pasikartojo 5 kartus eilutese: 3 26 39 51 55
+ only pasikartojo 2 kartus eilutese: 3 26
+ opt pasikartojo 2 kartus eilutese: 35 37
+ or pasikartojo 5 kartus eilutese: 35 39 51 53 64
+ our pasikartojo 2 kartus eilutese: 9 32
+ out pasikartojo 4 kartus eilutese: 1 24 35 37
+ over pasikartojo 2 kartus eilutese: 5 28
+ pass pasikartojo 2 kartus eilutese: 17 46
+ passenger pasikartojo 4 kartus eilutese: 7 30 39 64
+ passengers pasikartojo 4 kartus eilutese: 41 46 62 62
+ passport pasikartojo 2 kartus eilutese: 1 24
+ past pasikartojo 2 kartus eilutese: 5 28
+ people pasikartojo 3 kartus eilutese: 9 32 55
+ per pasikartojo 2 kartus eilutese: 7 30
+ police pasikartojo 2 kartus eilutese: 9 32
+ policy pasikartojo 2 kartus eilutese: 16 43
+ post pasikartojo 2 kartus eilutese: 18 46
+ privacy pasikartojo 2 kartus eilutese: 15 43
+ privacyinvading pasikartojo 2 kartus eilutese: 9 32
+ prototypes pasikartojo 2 kartus eilutese: 5 28
+ pull pasikartojo 2 kartus eilutese: 1 24
+ put pasikartojo 3 kartus eilutese: 1 24 51
+ really pasikartojo 2 kartus eilutese: 16 43
+ recognition pasikartojo 8 kartus eilutese: 11 16 18 35 37 41 48 55
+ right pasikartojo 2 kartus eilutese: 35 51
+ saving pasikartojo 2 kartus eilutese: 7 30
+ says pasikartojo 4 kartus eilutese: 7 30 57 64
+ scale pasikartojo 2 kartus eilutese: 9 32
+ scanned pasikartojo 2 kartus eilutese: 5 28
+ scanning pasikartojo 3 kartus eilutese: 9 32 46
+ scans pasikartojo 4 kartus eilutese: 7 15 30 53
+ seconds pasikartojo 3 kartus eilutese: 7 30 51
+ security pasikartojo 3 kartus eilutese: 7 30 41
+ smile pasikartojo 3 kartus eilutese: 10 15 47
+ so pasikartojo 5 kartus eilutese: 3 26 39 41 62
+ state pasikartojo 3 kartus eilutese: 9 32 55
+ states pasikartojo 2 kartus eilutese: 5 28
+ step pasikartojo 3 kartus eilutese: 9 32 51
+ stolen pasikartojo 2 kartus eilutese: 9 32
+ stored pasikartojo 2 kartus eilutese: 9 32
+ stuff pasikartojo 2 kartus eilutese: 9 32
+ suspected pasikartojo 2 kartus eilutese: 9 32
+ systems pasikartojo 2 kartus eilutese: 41 64
+ technology pasikartojo 7 kartus eilutese: 5 9 22 28 32 43 57
+ terminal pasikartojo 2 kartus eilutese: 7 30
+ than pasikartojo 3 kartus eilutese: 41 57 60
+ that pasikartojo 8 kartus eilutese: 7 9 17 30 32 39 41 46
+ thats pasikartojo 4 kartus eilutese: 9 32 43 55
+ the pasikartojo 45 kartus eilutese: 1 5 5 5 7 9 9 9 9 9 10 11 16 18 24 28 28 28 30 32 32 32 32 32 35 37 39 41 41 43 47 48 53 55 55 55 55 55 57 60 62 62 64 64 64
+ they pasikartojo 2 kartus eilutese: 5 28
+ this pasikartojo 5 kartus eilutese: 3 9 26 32 43
+ those pasikartojo 3 kartus eilutese: 3 26 55
+ through pasikartojo 3 kartus eilutese: 43 46 60
+ ticket pasikartojo 2 kartus eilutese: 1 24
+ to pasikartojo 28 kartus eilutese: 1 1 1 5 9 18 18 18 24 24 24 28 32 35 37 39 39 41 41 43 51 53 53 55 55 57 58 60
+ too pasikartojo 3 kartus eilutese: 1 24 64
+ tracked pasikartojo 2 kartus eilutese: 9 32
+ trap pasikartojo 4 kartus eilutese: 9 15 32 43
+ travelers pasikartojo 5 kartus eilutese: 5 28 35 55 55
+ treating pasikartojo 2 kartus eilutese: 9 32
+ two pasikartojo 6 kartus eilutese: 5 7 28 30 51 62
+ united pasikartojo 2 kartus eilutese: 5 28
+ unlocking pasikartojo 3 kartus eilutese: 11 48 58
+ unproven pasikartojo 2 kartus eilutese: 5 28
+ unregulated pasikartojo 2 kartus eilutese: 5 28
+ us pasikartojo 7 kartus eilutese: 9 17 32 35 39 39 53
+ uses pasikartojo 2 kartus eilutese: 7 30
+ verify pasikartojo 2 kartus eilutese: 5 28
+ very pasikartojo 3 kartus eilutese: 11 41 48
+ washington pasikartojo 3 kartus eilutese: 18 18 46
+ whats pasikartojo 3 kartus eilutese: 11 16 48
+ when pasikartojo 3 kartus eilutese: 51 53 60
+ where pasikartojo 2 kartus eilutese: 39 55
+ which pasikartojo 2 kartus eilutese: 53 55
+ who pasikartojo 2 kartus eilutese: 9 32
+ why pasikartojo 2 kartus eilutese: 15 17
+ with pasikartojo 9 kartus eilutese: 11 11 41 43 48 48 53 60 64
+ wont pasikartojo 2 kartus eilutese: 1 24
+ work pasikartojo 2 kartus eilutese: 58 62
+ worth pasikartojo 2 kartus eilutese: 3 26
+ years pasikartojo 2 kartus eilutese: 5 28
+ yet pasikartojo 5 kartus eilutese: 5 9 28 32 58
+ yorks pasikartojo 2 kartus eilutese: 18 46
+ you pasikartojo 10 kartus eilutese: 1 3 11 24 26 39 48 51 51 53
+ your pasikartojo 16 kartus eilutese: 1 1 3 7 17 17 24 24 26 30 51 51 51 53 53 53
+URLs: 
+www.pavargau.lt
+https://github.com/
+https://www.washingtonpost.com/technology/2019/06/10/your-face-is-now-your-boarding-pass-thats-problem/?utm_term=.719a04479de6
+https://github.com
+https://www.washingtonpost.com/technology/2019/06/10/your-face-is-now-your-boarding-pass-thats-problem/?utm_term=.719a04479de6
