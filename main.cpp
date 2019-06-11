@@ -48,7 +48,6 @@ int main ()
 		while (eil >> oneword) {
 			std::transform(oneword.begin(), oneword.end(), oneword.begin(), ::tolower);
 			if (Url(oneword)) {
-				WordCounter.insert({ oneword, linenr });
 				links.push_back(oneword);
 			} else {
 				oneword.erase(std::remove_if(oneword.begin(), oneword.end(), specialchar), oneword.end());
