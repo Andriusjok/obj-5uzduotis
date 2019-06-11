@@ -23,7 +23,7 @@ bool Url(const string &word) {
 }
 bool specialchar(char & a)
 {
-	if (std::isalpha(a) or std::isdigit(a) or a=="ą" or a=="č" or a=="ę" or a=="ė" or a=="į" or a=="š" or a=="ų" or a=="ū") {
+	if (std::isalpha(a) or std::isdigit(a)) {
 		return false;
 	} return true;
 }
@@ -63,13 +63,14 @@ int main ()
 	ofstream ofile("rez" + pav);
 	auto  maxCount=1;
 	unsigned int maxWord=1;
+	int b=0;
 		for (auto it = WordCounter.begin(), end = WordCounter.end(); it != end; it = WordCounter.upper_bound(it->first))
 	{
 		if (maxCount<WordCounter.count(it->first))
 			maxCount=WordCounter.count(it->first);
 		if (maxWord<it->first.length())
 			maxWord=it->first.length();
-
+		b++;
 	}
 
 	ofile<<setw(maxWord+1)<<std::left<<"Zodis"<<setw(21)<<"pakartojimu skaicius"<<" "<<"eilutese"<<endl;	
