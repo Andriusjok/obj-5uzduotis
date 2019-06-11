@@ -72,7 +72,6 @@ int main ()
 			maxWord=it->first.length();
 		b++;
 	}
-
 	ofile<<setw(maxWord+1)<<std::left<<"Zodis"<<setw(21)<<"pakartojimu skaicius"<<" "<<"eilutese"<<endl;	
 	for(auto a=2;a<=maxCount;a++){
 	for (auto it = WordCounter.begin(), end = WordCounter.end(); it != end; it = WordCounter.upper_bound(it->first))

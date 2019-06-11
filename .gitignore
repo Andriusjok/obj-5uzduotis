@@ -2,3 +2,6 @@
 # Executables
 *.exe
 *.o
+dir
+g++
+git

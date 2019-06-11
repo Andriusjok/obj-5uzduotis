@@ -10,7 +10,7 @@ This has all the makings of a convenience trap. That’s how privacy-invading tech
 Smile for the https://github.com/ camera
 You may already be familiar with facial recognition from unlocking an iPhone with FaceID. What’s happening at the boarding gate is very different.
 https://www.washingtonpost.com/technology/2019/06/10/your-face-is-now-your-boarding-pass-thats-problem/?utm_term=.719a04479de6
-
+aaaaaa
 Consumer Tech Perspective
 Don’t smile for surveillance: Why airport face scans are a privacy trap
 What’s face recognition at the airport really about? Immigration policy and efficiency.
