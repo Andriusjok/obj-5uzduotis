@@ -15,7 +15,7 @@ Because the assignment didn't require us to have UTF-8 support, I didn't do it. 
 
 I used a regex that I found online to check if a string is a valid url or not.
 
-#Makefile: make makes exe file and clean deletes it.
+# Makefile: make makes exe file and clean deletes it.
 ```
 CC=g++
 main:
